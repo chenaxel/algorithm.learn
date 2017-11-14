@@ -1,4 +1,4 @@
-package com.axel.algs4;
+package com.axel.algs4.base;
 
 /**
  *  <i>Standard array IO</i>. This class provides methods for reading

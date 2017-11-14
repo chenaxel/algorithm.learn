@@ -1,4 +1,4 @@
-package com.axel.algs4;
+package com.axel.algs4.base;
 
 /**
  *  The {@code StdStats} class provides static methods for computing

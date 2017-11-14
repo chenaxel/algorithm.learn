@@ -1,4 +1,4 @@
-package com.axel.algs4;
+package com.axel.algs4.base;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.axel.algs4;
+package com.axel.algs4.base;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
